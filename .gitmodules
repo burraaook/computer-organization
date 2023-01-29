@@ -1,0 +1,12 @@
+[submodule "single-cycle-mips-processor"]
+	path = single-cycle-mips-processor
+	url = https://github.com/burraaook/single-cycle-mips-processor.git
+[submodule "cypher-detector"]
+	path = cypher-detector
+	url = https://github.com/burraaook/cypher-detector.git
+[submodule "alu-with-sequential-multiplier"]
+	path = alu-with-sequential-multiplier
+	url = https://github.com/burraaook/alu-with-sequential-multiplier.git
+[submodule "divisible-sumpair-in-mips"]
+	path = divisible-sumpair-in-mips
+	url = https://github.com/burraaook/divisible-sumpair-in-mips.git
